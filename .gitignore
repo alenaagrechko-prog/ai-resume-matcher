@@ -1,0 +1,13 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Ключи и настройки
+.env
+
+# Динамические файлы и кэш
+checked_urls.txt
+suitable_vacancies.xlsx
+__pycache__/
+*.pyc
